@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Mobile Clone",
+  "description": "A visually appealing, mobile-first clone of the YouTube application UI, built with React and Tailwind CSS. This is a frontend-only application using mock data to showcase UI/UX design and component structure, without any backend API integration.",
+  "requestFramePermissions": []
+}
